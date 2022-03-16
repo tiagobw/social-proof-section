@@ -97,12 +97,12 @@
   }
 
   .header {
-    width: 70%;
+    width: 75%;
   }
 
   .header__heading {
     text-align: left;
-    font-size: 2.5rem;
+    font-size: 3rem;
     margin-bottom: 1rem;
   }
 
